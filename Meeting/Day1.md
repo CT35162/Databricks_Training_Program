@@ -1,4 +1,4 @@
-## Day1:
+## Day3:
 •	Get to know 
 •	FST Presents -Highlevel pipeline - tools the team uses - 10 -15 mins, share her journey 
 •	ETL to share Highlevel pipeline - tools we use 
